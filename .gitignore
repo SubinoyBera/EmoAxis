@@ -208,3 +208,5 @@ __marimo__/
 
 data/*
 finetune.env/*
+model/EmoAxis_MoE(p1).ipynb
+model/EmoAxis-MoE.ipynb
